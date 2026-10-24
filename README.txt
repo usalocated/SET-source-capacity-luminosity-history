@@ -1,13 +1,16 @@
 Space Emanation Theory — Source, Capacity and the Luminosity History
 Erik Echeverria
-Rough draft 1 — 23 October 2026
+Rough draft 2 — 24 October 2026
 
-The PDF develops the cosmological source-radius equation from the SET source law, its density-based source-volume clock and the retained capacity correspondence. It follows the derivation through photon propagation and reproduces all fifteen archived Pantheon+ and DES-Dovekie brightness contrasts without changing the inputs or fitting new coefficients.
+Latest PDF:
+https://github.com/usalocated/SET-source-capacity-luminosity-history/blob/main/SET-source-capacity-and-luminosity-history-rough-draft-2.pdf
 
-Contents: 17 pages, 57 numbered equations, two figures, one worked brightness calculation and the complete fifteen-contrast table. The paper distinguishes derived consequences from the physical correspondence used to close this homogeneous realization, and states the remaining complete-energy relation explicitly.
+Rough draft 2 states the cosmological source-evolution principle in modern SET notation and derives its connections to the source-radius history, photon energy, luminosity distance and common-energy constraint. It adds the direct optical capacity equation, an exact lapse comparison, the required source-work fractions and two technical appendices on transport and field compatibility.
 
-Main PDF:
-SET-source-capacity-and-luminosity-history-rough-draft-1.pdf
+The PDF contains 25 pages and 85 numbered equations. Both graphs, all fifteen archived Pantheon+ and DES-Dovekie brightness contrasts, the worked calculation and the reception inputs are preserved from Rough Draft 1. The selection is stated within the specified cosmological realization; its physical premises and local-field compatibility conditions are explicit.
+
+Earlier edition, retained unchanged:
+https://github.com/usalocated/SET-source-capacity-luminosity-history/blob/main/SET-source-capacity-and-luminosity-history-rough-draft-1.pdf
 
 Companion framework:
 https://github.com/usalocated/Space-Emanation-Theory-Integrated
